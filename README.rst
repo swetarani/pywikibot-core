@@ -1,4 +1,4 @@
-Pywikibot Framework
+Pywikibot Framework test
 ===================
 
 The Pywikibot framework is a Python library that interfaces with the
